@@ -4,9 +4,9 @@
 
 module.exports = {
   // Bot user token, found on Discord Devs website:
-  token: '',
+  token: 'NDcwMDA1MTcyMDYwMjkxMDkz.DjcU5A.cciVPgCCR1LPyeB8ON-SwfEh9H4',
   // The bot app's client ID:
-  clientId: '',
+  clientId: '470005172060291093',
   // Commands should be preceded by this string:
   prefix: '@mention',
   // Moment.js date format to use:
